@@ -13,7 +13,7 @@ $$\begin{cases}
 \end{cases}$$
 
 ### Boundaries:
-The normal velocity components at the boundary are zero. A constant speed $`\mathbf{u}=(1,0)`$ is set on the upper boundary of the region. At the initial time $`\mathbf{u} = 0`$. 
+The normal velocity components at the boundary are zero. A constant speed $\mathbf{u}=(1,0)$ is set on the upper boundary of the region. At the initial time $\mathbf{u} = 0$. 
 
 ### Example of solution
 ![example](output.png)
